@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 18, 2025 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started two simple Python projects, just to get going.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I’ve always longed for a perfect point in the time-space continuum to start. Anxiously looking at the smallest clock hand to strike the full hour but somehow missing the moment due to the smallest cracking of the floor or shadow of passerby outside of my window. Today I tried to sneak past the ritual, to stay in a blindspot of its omnipotent rule. Started to code in a small oddly shaped period of time, squished between vacuuming crevices of my house and being in a hurry. Then I held my breath for a few hours just to return in the evening. 
+It was easier this way but somehow it felt sacrilegious, but it started nonetheless. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** 
+- [Data collection of real time writing speed](https://github.com/amklb/Writing-Speed)
+- [Pomodoro but evil (it checks if your work window is really open)](https://github.com/amklb/Panopticon-Pomodoro)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
