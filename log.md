@@ -11,4 +11,11 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 - [Data collection of real time writing speed](https://github.com/amklb/Writing-Speed)
 - [Pomodoro but evil (it checks if your work window is really open)](https://github.com/amklb/Panopticon-Pomodoro)
 
+### Day 2: March 19, 2025 
 
+**Today's Progress**: Continued my pomodoro app. Exlored Tkinter. Did some pixel art for fun. 
+
+**Thoughts:** One hour of time has a great disadvantage of exposing one’s tardiness. Got frustrated with myself. Couldn’t start coding right away so I used playing with pixel art as a lure (it worked, in the end I’m a fish at heart). Made the evil tomato too small, now the whole app is too small, not that anybody cares. Will let it be for now. 
+
+**Link to work:** 
+- [Pomodoro but evil (it checks if your work window is really open)](https://github.com/amklb/Panopticon-Pomodoro)
