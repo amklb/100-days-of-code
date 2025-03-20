@@ -18,4 +18,13 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 **Thoughts:** One hour of time has a great disadvantage of exposing one’s tardiness. Got frustrated with myself. Couldn’t start coding right away so I used playing with pixel art as a lure (it worked, in the end I’m a fish at heart). Made the evil tomato too small, now the whole app is too small, not that anybody cares. Will let it be for now. 
 
 **Link to work:** 
-- [Pomodoro but evil (it checks if your work window is really open)](https://github.com/amklb/Panopticon-Pomodoro)
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+- 
+### Day 3: March 20, 2025 
+
+**Today's Progress**: Added timer and different frames to pomodoro app.
+
+**Thoughts:** Worked for well more than an hour without timing myself. Feeling tired and restless today, dissatisfied with what I managed to do today. Maybe it’s just my distaste for making user interfaces. 
+
+**Link to work:** 
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
