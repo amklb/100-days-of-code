@@ -28,3 +28,12 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 
 **Link to work:** 
 - [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+
+### Day 3: March 20, 2025 
+
+**Today's Progress**: Made Pomodoro app (mostly) functional: added option to add and delete allowed apps, made a timer gimmick work. 
+
+**Thoughts:** Possibly today it was a day that a coding habit started to take root. I came back home with no desire to code and disgruntled that I have to continue working on a dreaded interface. But I sat down at my computer anyway and from there it was surprisingly easy. There were a few obstacles along the way but as for now this app is mostly functional. I hope to finish it by tomorrow and finally move on to something that doesn’t require me putting a button anywhere on a screen. 
+
+**Link to work:** 
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
