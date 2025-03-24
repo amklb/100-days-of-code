@@ -19,7 +19,7 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 
 **Link to work:** 
 - [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
-- 
+
 ### Day 3: March 20, 2025 
 
 **Today's Progress**: Added timer and different frames to pomodoro app.
@@ -29,11 +29,38 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 **Link to work:** 
 - [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
 
-### Day 3: March 20, 2025 
+### Day 3: March 21, 2025 
 
 **Today's Progress**: Made Pomodoro app (mostly) functional: added option to add and delete allowed apps, made a timer gimmick work. 
 
 **Thoughts:** Possibly today it was a day that a coding habit started to take root. I came back home with no desire to code and disgruntled that I have to continue working on a dreaded interface. But I sat down at my computer anyway and from there it was surprisingly easy. There were a few obstacles along the way but as for now this app is mostly functional. I hope to finish it by tomorrow and finally move on to something that doesn’t require me putting a button anywhere on a screen. 
+
+**Link to work:** 
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+
+### Day 4: March 22, 2025 
+
+**Today's Progress**: Added a pause/unpause and stop buttons, improved timer.
+
+**Thoughts:** Didn’t feel like having thoughts important enough to write down. Coded nonetheless.
+
+**Link to work:** 
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+
+### Day 5: March 23, 2025 
+
+**Today's Progress**: Worked on the interface
+
+**Thoughts:** Interface frustrated me immensely, but it’s a lesson in humility. Didn’t want to journal today either.
+
+**Link to work:** 
+- [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+
+### Day 6: March 24, 2025 
+
+**Today's Progress**: Finished Pomodoro App!
+
+**Thoughts:** Finally finished this pomodoro app. I’m very satisfied with how it turned out although I’ve spent too much time dwelling on the buttons and text side of things. It’s not my cup of tea but it would be ridiculous for me to just skip GUI altogether. Taught me a valuable lesson that I feel much more at home in data analysis and backend than the frontend. 
 
 **Link to work:** 
 - [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
