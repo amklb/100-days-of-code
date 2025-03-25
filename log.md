@@ -64,3 +64,12 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 
 **Link to work:** 
 - [Pomodoro](https://github.com/amklb/Panopticon-Pomodoro)
+
+### Day 7: March 25, 2025 
+
+**Today's Progress**: Picked up writing speed script, added listening for keyboard. 
+
+**Thoughts:** After finishing the pomodoro app (I used it today and the fact that it counts working time only when I have Visual Studio Code on top is diabolical) it was time to return to writing speed project. To be honest I’ve spent a lot of time just looking at the screen and wondering how I should go about that. I also realised that while I knew how I would do some things in R I have no idea how to deal with the same data in Pandas. It made me think of putting more time into upkeep my R skills. I have a heartbreaking habit of putting things aside, for reasons usually connected to motivation, and realizing a few years down the line that if I cultivated that habit it would be fruitful by now.  
+
+**Link to work:** 
+- [Writing Speed](https://github.com/amklb/Writing-Speed)
