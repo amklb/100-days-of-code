@@ -73,3 +73,14 @@ It was easier this way. Somehow it felt sacrilegious, but it started nonetheless
 
 **Link to work:** 
 - [Writing Speed](https://github.com/amklb/Writing-Speed)
+
+### Day 8: March 26, 2025 
+
+**Today's Progress**: Did writing speed per minute aggregating function and worked on exercises for neuroscience ML.
+
+**Thoughts:** Today seemed to be off to a good start. I woke up at 7am to do some work on my ML class materials. Sadly I wasn’t awake enough to notice I didn’t save it and just turned my computer off. My grave mistake became apparent only during the aforementioned class. While I could wallow in my own misery of wasting my time (as if I’m not wasteful in other ways), I’ve just redid it. Even put in some more effort just to render the report from Quarto that I used before only in the context of RStudio. 
+After dwelling in front of the screen for so long today it was tempting to just count ML class towards my daily coding goal. But I did not (entirely). Instead I did some small improvements on my writing speed project as I really want it finished to use it. 
+
+**Link to work:** 
+- [Writing Speed](https://github.com/amklb/Writing-Speed)
+- [ERP analysis exercise](https://github.com/amklb/ML-neuroscience-class/tree/master/ERP)
